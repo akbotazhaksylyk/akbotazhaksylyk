@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akbota Zhaksylyk
-- 🇺🇸🇰🇿 | Bilim Innovaiton Lyceum for Gifted Girls'2022 | Astana IT University'2025
-- 💻 I’m interested in software engineering, full-stack development, backend development, and DevOps.
-- 🌱 I’m currently learning DevOps.
+- 🇺🇸🇰🇿 | Bilim Innovaiton Lyceum for Gifted Girls'2022 | Astana IT University'2025 & Lawrence Technological University (USA)
+- 💻 I’m interested in software engineering/full-stack development/backend development.
+- 🌱 I’m currently having internship as a web developer.
 - 🚀 I’m looking to collaborate on projects.
 - 📩 How to reach me: https://t.me/akbotazhak
 - ⚡ Fun fact: I am interested in STEM since I was 14 years old.
