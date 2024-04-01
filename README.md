@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akbota
 - 🇺🇸🇰🇿 | Bilim Innovaiton Lyceum for Gifted Girls'2022 | Astana IT University'2025 & Lawrence Technological University (USA)
-- 💻 I’m interested in software engineering/full-stack development/backend development.
+- 💻 I’m interested in software engineering.
 - 🌱 I’m currently having internship as a web developer.
 - 🚀 I’m looking to collaborate on projects.
 - 📩 How to reach me: https://t.me/akbotazhak
