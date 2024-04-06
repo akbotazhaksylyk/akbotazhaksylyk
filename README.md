@@ -4,7 +4,6 @@
 - 🌱 I’m currently having internship as a web developer.
 - 🚀 I’m looking to collaborate on projects.
 - 📩 How to reach me: https://t.me/akbotazhak
-- ⚡ Fun fact: I am interested in STEM since I was 14 years old.
 
 <!---
 akbotazhaksylyk/akbotazhaksylyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
